@@ -41,7 +41,7 @@ compile_xib(INPUT "${SRCROOT}/MainMenu.xib" OUTPUT "${CMAKE_CURRENT_BINARY_DIR}/
 # all resource files
 set(RESOURCES ${SRCROOT}/resources/logo.png
               ${SRCROOT}/resources/icon.icns
-              ${SRCROOT}/resources/sansation.ttf
+              ${SRCROOT}/resources/tuffy.ttf
               ${SRCROOT}/resources/blue.png
               ${SRCROOT}/resources/green.png
               ${SRCROOT}/resources/red.png
